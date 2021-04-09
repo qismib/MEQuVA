@@ -1,6 +1,6 @@
-# VQE Qiskit implementation
+# MEQuVA
 
-Questa repository contiene...
+Molecular Energy estimation with Quantum Variational Algorithm
 
 ## Descrizione dei file caricati
 
