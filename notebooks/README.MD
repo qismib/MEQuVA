@@ -4,4 +4,6 @@
 
 * ***VQE_H3.ipynb***: First implementation of VQE for H3 and H3+. Code not efficient at all and with some errors.
 
-* ***H3+ energy - rounded.ipynb***: optimization of previpus notebook, currently the core of the project.
+* ***H3+_triangular_energy.ipynb***: optimization of previous notebook, currently the core of the project. Energy calculated for different interatomic distances for a triangular geometry.
+
+* ***H3+_linear_energy.ipynb***: Energy calculated for different interatomic distances for a linear geometry.

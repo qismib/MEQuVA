@@ -18,6 +18,6 @@ Molecular Energy estimation with Quantum Variational Algorithm
 
 * Ground state energy and interatomic distance is not precisely what I expected.
 
-* Linear geometry for H3+.
+* ~~Linear geometry for H3+.~~
 
 * H3.
