@@ -1,13 +1,11 @@
 ## Notebooks description
 
+* ***Basis_analysis_(FCI).ipynb***: energy for H3+ calculated with sto-3g, sto-6g, 6-31g, cc-pvdz, aug-cc-pvdz with Full Configuraction Interaction;
+
+* ***Geometry.ipynb***: H3+ geometry analysis with FCI (triangular, linear, bended); 
+
+* ***Classical_solutions.ipynb***: implementation of Moller-Plesset (MP2), FCI, CCSD;
+
+* ***Aux_operators.ipynb***: usage of auxiliary operators in VQE;
+
 * ***VQE_Implementation_in_Qiskit.ipynb***: VQE algorithm for LiH energy; taken with minimum changes from Qiskit tutorials.
-
-* ***VQE_H3.ipynb***: First implementation of VQE for H3 and H3+. Code not efficient at all and with some errors.
-
-* ***H3+_triangular_energy.ipynb***: optimization of previous notebook, currently the core of the project. Energy calculated for different interatomic distances for a triangular geometry.
-
-* ***H3+_linear_energy.ipynb***: Energy calculated for different interatomic distances for a linear geometry.
-
-* ***Basis analysis(FCI).ipynb***: Energy calculated with different basis set with Full Configuration Interaction 
-
-* ***Hardware efficient ansatz(es).ipynb***: VQE with noise (ibmq_santiago) and different ansatz

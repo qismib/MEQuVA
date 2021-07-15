@@ -1,35 +1,63 @@
-# Introduzione
+# Indice tesi
 
-## Quantum computing
-## Quantum gates & operazioni
-## Qiskit e Quantum Experience
+## Analisi del problema e soluzioni classiche
 
-# Background Teorico per VQE
+### Problema elettronico
 
-## Problema elettronico
+#### Approssimazione di Born-Oppenheimer
+#### Basi per le funzioni d'onda
+#### Apprpssimazione di Hartree-Fock
 
-### Problema molecolare in generale
-### Approssimazione di Born-Oppenheimer
-### Metodo di Hartree-Fock
-### Funzione di base
+### Oltre il campo medio: metodi computazionali classici
 
-## Coupled-Cluster theory
+#### Teoria perturbativa di Moller-Plesset (MP)
+#### Full Configuration Interaction
+#### Coupled-Cluster theory
 
-### UCCSD applicata
+## Soluzioni computazionali quantistiche
 
-## Qubit-mapping
+### Computer quantistici
 
-# Applicazioni e misure
+#### Qubit, gate e circuiti
+#### Da sistemi fermionici a circuiti di qubit
+#### Riduzione del numero di qubit
+#### Tecniche di error correction/mitigation
 
-## Analisi per H3+
+### Variational Quantum Eigensolver
 
-### Studio preliminare 
-### VQE (lineare e triangolare) 
-### Simulazione
-### Quantum hardware
+#### Funzione costo
+#### Ansatz
 
-## Analisi per H3
-### Studio preliminare 
-### Quantum hardware
+### Qiskit e IBMQ
 
-# Conclusioni
+#### I coputer quantistici IBM
+#### La struttura di Qiskit
+#### Backends and Noise Model
+
+## Simulazioni e miure
+
+### Studio iniziale di H3+
+### Analisi con metodi computazionali classici
+
+#### Altre possibili geometrie molecolari
+
+### Simulazioni con VQE
+
+#### Simulazioni esatte - statevector simulator
+#### Noise Models
+#### Scelta dell'ansatz
+#### Misure con Error Mitigation
+#### Calcolo dell'energia di dissociazione
+
+### Misure su Quantum Hardware
+
+## Conclusioni
+
+### Risultati
+### Prospettive future
+
+
+
+
+
+
