@@ -18,6 +18,8 @@ Molecular Energy estimation with Quantum Variational Algorithm
 
 * ***example.py***: commented VQE example 
 
+* ***example_QiskitNature_015.py***: commented VQE example with qiskit nature
+
 * ***requirements.txt***: list of installed packages used for the virtual python environment (python version: 3.8.5).
 
 ## Summary
